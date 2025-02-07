@@ -111,7 +111,7 @@ class ListHandler<T> {
     }
 }
 
-const listHandler = new ListHandler<string>();
+const listHandler = new ListHandler();
 
 listHandler.add("Jessie");
 listHandler.add("Satoro");
